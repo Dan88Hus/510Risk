@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "random_65",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "rand_point_id": 0, "Dis No": "2018-0163-BDI", "Year": "2018", "Seq": "0163", "Glide": null, "Disaster Group": "Natural", "Disaster Subgroup": "Hydrological", "Disaster Type": "Flood", "Disaster Subtype": null, "Disaster Subsubtype": null, "Event Name": null, "Country": "Burundi", "ISO": "BDI", "Region": "Eastern Africa", "Continent": "Africa", "Location": "Bujumbura", "Origin": "Torrential Rain", "Associated Dis": null, "Associated Dis2": null, "OFDA Response": null, "Appeal": null, "Declaration": null, "Aid Contribution": null, "Dis Mag Value": "8959", "Dis Mag Scale": "Km2", "Latitude": "-4.015", "Longitude": "29.641", "Local Time": null, "River Basin": null, "Start Year": "2018", "Start Month": "4", "Start Day": "28", "End Year": "2018", "End Month": "5", "End Day": "1", "Total Deaths": null, "No Injured": null, "No Affected": "2576", "No Homeless": null, "Total Affected": "2576", "Reconstruction Costs ('000 US$)": null, "Insured Damages ('000 US$)": null, "Total Damages ('000 US$)": null, "CPI": "98,21999062", "Adm Level": "1", "Admin1 Code": "40543", "Admin2 Code": null, "Geo Locations": "Bujumbura Mairie (Adm1).", "id": 65 }, "geometry": { "type": "Point", "coordinates": [ 29.342601998242255, -3.421665402998245 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "random_58",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "rand_point_id": 0, "Dis No": "2017-0080-BDI", "Year": "2017", "Seq": "0080", "Glide": null, "Disaster Group": "Natural", "Disaster Subgroup": "Hydrological", "Disaster Type": "Landslide", "Disaster Subtype": "Landslide", "Disaster Subsubtype": null, "Event Name": null, "Country": "Burundi", "ISO": "BDI", "Region": "Eastern Africa", "Continent": "Africa", "Location": "Mabayi district (Cibitoke province);Bujumbura mairie (Butere, Kinama,...); Kiganda district (Muramvya province), Mutimbuzi district (Bujumbura Rural province)", "Origin": "Torrential rains", "Associated Dis": "Flood", "Associated Dis2": null, "OFDA Response": null, "Appeal": null, "Declaration": null, "Aid Contribution": null, "Dis Mag Value": null, "Dis Mag Scale": null, "Latitude": null, "Longitude": null, "Local Time": null, "River Basin": null, "Start Year": "2017", "Start Month": "3", "Start Day": "16", "End Year": "2017", "End Month": "3", "End Day": "22", "Total Deaths": "6", "No Injured": null, "No Affected": null, "No Homeless": "810", "Total Affected": "810", "Reconstruction Costs ('000 US$)": null, "Insured Damages ('000 US$)": null, "Total Damages ('000 US$)": null, "CPI": "95,87816577", "Adm Level": "1;2", "Admin1 Code": "40543", "Admin2 Code": "40589;40607;40653", "Geo Locations": "Bujumbura Mairie (Adm1). Kiganda, Mabayi, Mutimbuzi (Adm2).", "id": 58 }, "geometry": { "type": "Point", "coordinates": [ 29.26143323698825, -3.321418623119531 ] } }
+]
+}

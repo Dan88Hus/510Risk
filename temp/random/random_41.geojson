@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "random_41",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "rand_point_id": 0, "Dis No": "2007-0539-BDI", "Year": "2007", "Seq": "0539", "Glide": null, "Disaster Group": "Natural", "Disaster Subgroup": "Hydrological", "Disaster Type": "Flood", "Disaster Subtype": null, "Disaster Subsubtype": null, "Event Name": null, "Country": "Burundi", "ISO": "BDI", "Region": "Eastern Africa", "Continent": "Africa", "Location": "Bujumbura Mairie, Bujumbura Rural, Cibitoke, Bururi provinces", "Origin": null, "Associated Dis": "Flood", "Associated Dis2": null, "OFDA Response": null, "Appeal": null, "Declaration": null, "Aid Contribution": null, "Dis Mag Value": null, "Dis Mag Scale": "Km2", "Latitude": null, "Longitude": null, "Local Time": null, "River Basin": null, "Start Year": "2007", "Start Month": "10", "Start Day": "15", "End Year": "2007", "End Month": "10", "End Day": "31", "Total Deaths": "1", "No Injured": "6", "No Affected": "2695", "No Homeless": null, "Total Affected": "2701", "Reconstruction Costs ('000 US$)": null, "Insured Damages ('000 US$)": null, "Total Damages ('000 US$)": null, "CPI": "81,10165893", "Adm Level": "1", "Admin1 Code": "40543;40544;40545;40547", "Admin2 Code": null, "Geo Locations": "Bujumbura Mairie, Bujumbura Rural, Bururi, Cibitoke (Adm1).", "id": 41 }, "geometry": { "type": "Point", "coordinates": [ 29.34787268254285, -3.412612604159732 ] } }
+]
+}

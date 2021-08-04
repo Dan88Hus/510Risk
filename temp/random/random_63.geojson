@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "random_63",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "rand_point_id": 0, "Dis No": "2018-0065-BDI", "Year": "2018", "Seq": "0065", "Glide": null, "Disaster Group": "Natural", "Disaster Subgroup": "Hydrological", "Disaster Type": "Flood", "Disaster Subtype": "Flash flood", "Disaster Subsubtype": null, "Event Name": null, "Country": "Burundi", "ISO": "BDI", "Region": "Eastern Africa", "Continent": "Africa", "Location": "Rugombo, Mpinga-Kayove, Bujumbura Mairie, Bujumbura Rural, Bururi, Ruyigi provinces", "Origin": "Heavy rains", "Associated Dis": null, "Associated Dis2": null, "OFDA Response": null, "Appeal": null, "Declaration": null, "Aid Contribution": null, "Dis Mag Value": "18675", "Dis Mag Scale": "Km2", "Latitude": "-3.47", "Longitude": "29.987", "Local Time": null, "River Basin": null, "Start Year": "2018", "Start Month": "1", "Start Day": "14", "End Year": "2018", "End Month": "1", "End Day": "24", "Total Deaths": null, "No Injured": null, "No Affected": "12000", "No Homeless": null, "Total Affected": "12000", "Reconstruction Costs ('000 US$)": null, "Insured Damages ('000 US$)": null, "Total Damages ('000 US$)": null, "CPI": "98,21999062", "Adm Level": "1", "Admin1 Code": "40543;40544;40545;40547;40557;40558", "Admin2 Code": null, "Geo Locations": "Bujumbura Mairie, Bujumbura Rural, Bururi, Cibitoke, Rutana, Ruyigi (Adm1).", "id": 63 }, "geometry": { "type": "Point", "coordinates": [ 29.348251625860502, -3.404145372397467 ] } }
+]
+}

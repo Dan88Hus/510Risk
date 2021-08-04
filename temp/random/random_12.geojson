@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "random_12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "rand_point_id": 0, "Dis No": "2003-9651-BDI", "Year": "2003", "Seq": "9651", "Glide": null, "Disaster Group": "Natural", "Disaster Subgroup": "Climatological", "Disaster Type": "Drought", "Disaster Subtype": "Drought", "Disaster Subsubtype": null, "Event Name": null, "Country": "Burundi", "ISO": "BDI", "Region": "Eastern Africa", "Continent": "Africa", "Location": "Kirundo, Muyinga, Ngozi, Kayanza, Muramvya, Bujumbura Rural, Ruyigi, Gitega, Bubanza, Makamba provinces", "Origin": null, "Associated Dis": null, "Associated Dis2": null, "OFDA Response": null, "Appeal": null, "Declaration": null, "Aid Contribution": null, "Dis Mag Value": null, "Dis Mag Scale": "Km2", "Latitude": null, "Longitude": null, "Local Time": null, "River Basin": null, "Start Year": "2003", "Start Month": "9", "Start Day": null, "End Year": "2004", "End Month": null, "End Day": null, "Total Deaths": null, "No Injured": null, "No Affected": null, "No Homeless": null, "Total Affected": null, "Reconstruction Costs ('000 US$)": null, "Insured Damages ('000 US$)": null, "Total Damages ('000 US$)": null, "CPI": "71,95500655", "Adm Level": "1", "Admin1 Code": "40542;40544;40548;40550;40551;40552;40553;40554;40556;40558", "Admin2 Code": null, "Geo Locations": "Bubanza, Bujumbura Rural, Gitega, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Ngozi, Ruyigi (Adm1).", "id": 12 }, "geometry": { "type": "Point", "coordinates": [ 29.408043551381937, -3.182098538331365 ] } }
+]
+}
